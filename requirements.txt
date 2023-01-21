@@ -1,0 +1,4 @@
+﻿selenium==3.141.0
+httiop
+pickle
+time
